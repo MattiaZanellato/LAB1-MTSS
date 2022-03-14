@@ -1,2 +1,2 @@
-# LAB1-MTSS
-Laboratorio 1 MTSS
+# LAB-MTSS
+Laboratorio MTSS
